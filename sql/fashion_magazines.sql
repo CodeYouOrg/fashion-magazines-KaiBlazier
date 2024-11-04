@@ -11,4 +11,4 @@ WHERE
     o.order_status = 'unpaid' 
     AND s.description = 'Fashion Magazine'
 GROUP BY 
-    c.customer_name;Add your sql here
+    c.customer_name;
